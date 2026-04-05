@@ -111,8 +111,6 @@ customer_behaviour_dashboard.pbix
 
 ![dashboard](https://github.com/user-attachments/assets/defcf8a5-e05f-4dae-84ec-7cc3db139d7f)
 
-(Add your Power BI screenshot here)
-
 ---
 
 ## 👨‍💻 About Me
